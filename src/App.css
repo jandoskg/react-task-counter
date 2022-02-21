@@ -13,6 +13,7 @@ a{
     color:goldenrod
 }
 .Burger{
+    margin-left: 50px;
     padding: 30px 20px;
    
 
@@ -25,7 +26,7 @@ a{
     
     width: 500px;
     height: 400px;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 .text{
     
@@ -46,3 +47,23 @@ a{
     flex-direction: column;
     padding: 20px;
   }
+
+.div-text{
+    margin:auto;
+    width: 350px;
+    height: 350px;
+    border-radius: 30px;
+    padding: 20px 20px;
+    background-color: rgb(255, 255, 255, 0.5);
+}
+.Home-text h3{
+    border-radius: 20px;
+    padding-top: 10px;
+    text-align: center;
+    width: 65%;
+    height: 100px;
+    background-color: rgb(255, 255, 255, 0.5)
+}
+h1{
+    color: goldenrod
+}
